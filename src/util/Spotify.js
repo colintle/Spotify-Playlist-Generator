@@ -2,7 +2,7 @@ import React from 'react';
 
 let token = "";
 const clientId = "4ffe3fec807d470da5caebdb025ca536";
-const redirectURL = "http://localhost:3000/";
+const redirectURL = "http://www.colinle.com/Spotify-Playlist-Generator/";
 
 const Spotify = {
     getAccessToken() {
